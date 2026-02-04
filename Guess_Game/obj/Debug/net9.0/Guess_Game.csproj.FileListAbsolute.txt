@@ -1,0 +1,14 @@
+E:\VS code\Guess_Game\obj\Debug\net9.0\Guess_Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS code\Guess_Game\obj\Debug\net9.0\Guess_Game.AssemblyInfoInputs.cache
+E:\VS code\Guess_Game\obj\Debug\net9.0\Guess_Game.AssemblyInfo.cs
+E:\VS code\Guess_Game\obj\Debug\net9.0\Guess_Game.csproj.CoreCompileInputs.cache
+E:\VS code\Guess_Game\bin\Debug\net9.0\Guess_Game.exe
+E:\VS code\Guess_Game\bin\Debug\net9.0\Guess_Game.deps.json
+E:\VS code\Guess_Game\bin\Debug\net9.0\Guess_Game.runtimeconfig.json
+E:\VS code\Guess_Game\bin\Debug\net9.0\Guess_Game.dll
+E:\VS code\Guess_Game\bin\Debug\net9.0\Guess_Game.pdb
+E:\VS code\Guess_Game\obj\Debug\net9.0\Guess_Game.dll
+E:\VS code\Guess_Game\obj\Debug\net9.0\refint\Guess_Game.dll
+E:\VS code\Guess_Game\obj\Debug\net9.0\Guess_Game.pdb
+E:\VS code\Guess_Game\obj\Debug\net9.0\Guess_Game.genruntimeconfig.cache
+E:\VS code\Guess_Game\obj\Debug\net9.0\ref\Guess_Game.dll
